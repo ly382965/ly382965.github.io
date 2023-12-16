@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/test1/index.html
+permalink: /blogs/test1.md/index.html
 title: 科学与辩证唯物主义之间关系的认识
 ---
 
@@ -9,6 +9,8 @@ title: 科学与辩证唯物主义之间关系的认识
 ### 2023.12.16
 
 ------
+
+
 
 辩证唯物主义和自然科学具有密切的辩证联系，同时二者之间又具有相互不可替代的特点。
 
