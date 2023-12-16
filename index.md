@@ -2,52 +2,75 @@
 layout: page
 ---
 
-# About Me
+# Li Yi 李毅
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+李毅（2005.10.05 - 今），现就读于中国科学技术大学信息科学技术学院，攻读电子信息工程专业学士学位
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
-
-I am a senior undergrad majoring in **EECS** at Fuzhou University and Maynooth University (Combined degrees). Currently, I serve as a research assistant at the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu) and [Dr. Meng Yuan](https://www.researchgate.net/profile/Meng-Yuan-4). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University. Recently, I have been selected as an **AAAI UC Scholar**.
-
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+- 班级：2203
+- 班主任：黄鹤
+- 任职：23-24学年 学习委员
 
 <br>
 
-## Academic Background
+## 获奖情况
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+2023.9 中国科学技术大学优秀学生奖学金 银奖
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
+2023.4  第十三届全国大学生物理学术竞赛中国科学技术大学 校赛二等奖
+
+2023.1  第十四届全国大学生数学竞赛（非数学类） 安徽赛区二等奖
 
 <br>
 
 ---
 
-## Research Interests
+## 论文
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
+[1] 李毅。新冠肺炎疫情背景下大学生抑郁成因及对策分析，2022.12
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+[2] 李毅。基于python的使用蒙特卡洛方法模拟解决优惠劵收集问题，2023.6
+
+<br>
+
+------
+
+## 项目开发经历
+
+2022.12  多彩科大 -- 2022秋计算机程序设计大作业（基于C语言）
+
+<br>
+
+------
+
+## 教育经历
+
+2023.7 - 今     就读于中国科学技术大学信息科学技术学院，本科，修读电子信息工程专业
+
+2022.8 - 2023.7 就读于中国科学技术大学工程科学学院，本科，修读工科实验班专业
+
+2019.8 - 2022.6 就读于安徽省无为中学，高中，理工类
+
+2016.9 - 2019.6 就读于安徽省无为市蜀山中心校
+
+2010.9 - 2016.6 就读于安徽省无为市蜀山中心小学
 
 <br>
 
 ---
 
-## News and Updates
+## 其他荣誉
 
-- **Dec 2023：**Very excited to be selected as [AAAI-24 UC Scholar](https://aaai-uc.github.io/), see you in Canada 🇨🇦
-- **Dec 2023：**Got an MSc offer from the physics department at Imperial College London 🇬🇧
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship 🇨🇳
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship 🇨🇳
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%) 🇺🇸
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan 🇯🇵
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò 🇬🇧
+2023.11 参加中国科学技术大学科技英才班2023秋季短程马拉松，获得10km FINISHER 奖牌
+
+2023.6  通过英语六级考试
+
+2023.5  在2023年中国科学技术大学纪念五四运动104周年校园马拉松中，获得FINISHER 奖牌
+
+2023.4  在中国科学技术大学“科技活动周”活动中担任科普工作者，获得荣誉证书
+
+2022.12 通过英语四级考试
+
+2022.10 参加中国科学技术大学2022年青年马克思主义者培养工程院级团 校， 经过考核顺利结业
 
 <br>
 
