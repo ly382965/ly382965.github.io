@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /blogs/La vaguelette/index.html
+permalink: /blogs/LaVaguelette/index.html
 title:轻涟 La vaguelette
 ---
 
