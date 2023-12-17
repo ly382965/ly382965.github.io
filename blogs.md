@@ -12,6 +12,6 @@ title: Blogs
 
 - 2023.12.16 [测试文档2：新冠肺炎疫情背景下大学生抑郁成因及对策分析](https://ly382965.github.io/blogs/新冠肺炎疫情背景下大学生抑郁成因及对策分析.pdf)
 
-- 2023.12.17 [【原神】 轻涟 La vaguelette 歌词](https://ly382965.github.io/blogs/轻涟 La vaguelette.md)
+- 2023.12.17 [【原神】 轻涟 La vaguelette 歌词](https://ly382965.github.io/blogs/轻涟LaVaguelette.md)
 
 <br>
