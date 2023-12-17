@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/LaVaguelette/index.html
-title:轻涟 La vaguelette
+title: 轻涟 La vaguelette
 ---
 
 ## 轻涟 La vaguelette
