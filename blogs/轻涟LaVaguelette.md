@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /blogs/轻涟LaVaguelette/index.html
-title: 科学与辩证唯物主义之间关系的认识
+title:轻涟 La vaguelette
 ---
 
 ## 轻涟 La vaguelette
