@@ -24,7 +24,7 @@ title: Blogs
 
 [2023.10.4 摄谱实验报告](https://ly382965.github.io/report/摄谱实验报告.pdf)
 
-[2023.10.15 非平衡电桥](https://ly382965.github.io/report/非平衡电桥.pdf)
+[2023.10.15 直流非平衡电桥](https://ly382965.github.io/report/直流非平衡电桥.pdf)
 
 ### 电子技术实验I
 
