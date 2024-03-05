@@ -8,7 +8,7 @@ title: Blogs
 
 [2023.3.24 重力加速度的测量--实验方案设计](https://ly382965.github.io/report/重力加速度的测量--实验方案设计.pdf)
 
-[2023.4.2 重力加速度的测量--实验报告](https://ly382965.github.io/report/重力加速度的测量--实验方案设计.pdf)
+[2023.4.2 重力加速度的测量--实验报告](https://ly382965.github.io/report/重力加速度的测量--实验报告.pdf)
 
 [2023.4.9 杨氏模量](https://ly382965.github.io/report/杨氏模量.pdf)
 
