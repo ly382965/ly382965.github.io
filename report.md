@@ -40,10 +40,14 @@ title: Blogs
 
 [2023.12.6 实验六 集成运算放大器的基本应用–模拟运算电路](https://ly382965.github.io/report/实验六 集成运算放大器的基本应用–模拟运算电路.pdf)
 
-### 电子设计实验I
+### 电子设计实践I
 
 [2024.1.19 电子设计实践I 课程总结](https://ly382965.github.io/report/电子设计实践I 课程总结.pdf)
 
 ### 现代信息技术概览
 
 [2024.1.1 人工智能与时代变革](https://ly382965.github.io/report/人工智能与时代变革.pdf)
+
+### 电子技术实验II
+
+[电子技术实验II讲义（扫描版）](https://ly382965.github.io/report/电子技术实验II讲义（扫描版）.pdf)
