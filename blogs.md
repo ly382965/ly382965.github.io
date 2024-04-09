@@ -14,4 +14,8 @@ title: Blogs
 
 - 2023.12.17 [【原神】 轻涟 La vaguelette 歌词](https://ly382965.github.io/blogs/LaVaguelette)
 
+- #### 2024年
+
+- 2024.4.9 [提问的智慧](https://ly382965.github.io/blogs/TheMysteryOfQuestion.md)
+
 <br>
