@@ -1,8 +1,7 @@
 ---
 layout: page
-permalink: /blogs/test1/index.html
+permalink: /blogs/TheMysteryOfQuestion/index.html
 title: 科学与辩证唯物主义之间关系的认识
-
 ---
 
 ## **提问的智慧**
