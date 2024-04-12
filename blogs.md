@@ -16,6 +16,6 @@ title: Blogs
 
 - #### 2024年
 
-- 2024.4.9 [提问的智慧](https://ly382965.github.io/blogs/TheMysteryOfQuestion.md)
+- 2024.4.9 [提问的智慧](https://ly382965.github.io/blogs/TheMysteryOfQuestion)
 
 <br>
