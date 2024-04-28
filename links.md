@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /report/index.html
+permalink: /links/index.html
 title: Blogs
 ---
 
