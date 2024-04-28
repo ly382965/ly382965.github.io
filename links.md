@@ -6,9 +6,7 @@ title: Blogs
 
 ### 好用的链接（中文）
 
-##### 知识类免费链接
-
-
+**知识类免费链接**
 
 1.[ChatGPT](https://chat.openai.com)
 
@@ -24,9 +22,7 @@ title: Blogs
 
 7.[上海交通大学生存手册](https://survivesjtu.gitbook.io/survivesjtumanual)
 
-##### 学习资料
-
-
+**学习资料**
 
 1.[CS自学指南 (csdiy.wiki)](https://csdiy.wiki/)
 
@@ -34,8 +30,6 @@ title: Blogs
 
 3.[ustc_cyber_security: 中国科学技术大学网络空间安全学院学习资料共享 (gitee.com)-麻治昊](https://gitee.com/yssickjgd/ustc_cyber_security)
 
-##### 科学上网
-
-
+**科学上网**
 
 [v2ray节点购买 (jxdy.top)](https://jxdy.top/#/knowledge)
