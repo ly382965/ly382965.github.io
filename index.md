@@ -14,7 +14,7 @@ layout: page
 
 ## 社交媒体
 
-- qq：1778159807
+- 邮箱：ly382965@mail.ustc.edu.cn
 - b站：[-山水之间的个人空间--山水之间个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/521348820?spm_id_from=333.1007.0.0)
 - USTC评课社区：[萌萌哒mmd - USTC评课社区 (icourse.club)](https://icourse.club/user/7858)
 
