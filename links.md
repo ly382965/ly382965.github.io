@@ -26,9 +26,15 @@ title: Blogs
 
 1.[CS自学指南 (csdiy.wiki)](https://csdiy.wiki/)
 
-2.[USTC本科学习资料: 一个普通的USTCer的本科学习资料汇总- 高源 (gitee.com)](https://gitee.com/igem/USTC)
+**USTC优秀学长主页（有很多资料！）**
 
-3.[ustc_cyber_security: 中国科学技术大学网络空间安全学院学习资料共享 (gitee.com)-麻治昊](https://gitee.com/yssickjgd/ustc_cyber_security)
+1. [章俊彦 13数学（USTC数学学习资料）](https://www.zhangjy9610.me/index-cn.html)
+2. [张静宁 14物理 评课社区站长](https://jenny42.com/)
+3. [吴天  15数学](http://home.ustc.edu.cn/~wt1997/)
+4. [高源  17网安](https://gitee.com/igem/USTC)
+5. [麻治昊  18网安](https://gitee.com/yssickjgd/ustc_cyber_security)
+6. [施耀炜  21量信](http://home.ustc.edu.cn/~shiyaowei040126/)
+7. [刘元彻  21理论物理](http://home.ustc.edu.cn/~liuyuanche/)
 
 **科学上网**
 
