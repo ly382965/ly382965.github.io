@@ -18,4 +18,6 @@ title: Blogs
 
 - 2024.4.9 [提问的智慧](https://ly382965.github.io/blogs/TheMysteryOfQuestion)
 
+- 2024.9.2 [科学上网教程](https://ly382965.github.io/blogs/HowToUseV2rayN)
+
 <br>
