@@ -2,75 +2,78 @@
 layout: page
 ---
 
-## 萌萌哒 mmd
+## mmd
 
-我是萌萌哒mmd，真名李毅，出生于2005年10月5日，来自安徽省无为市。现就读于中国科学技术大学信息科学技术学院，攻读电子信息工程专业学士学位，同时攻读计算机科学与技术专业辅修学士学位。
+I am mmd, my real name is Li Yi, born on October 5, 2005, from Wuwei City, Anhui Province. I am an undergraduate at the University of Science and Technology of China (USTC) in the School of Information Science and Technology, major in Electronic Information Engineering(EE), minor in Computer Science and Technology(CS).
 
-- 行政班级：2203
-- 班主任：黄鹤
-- 任职：23-24学年 学习委员
-- 荣誉班级：22级信息科技英才班
+My research interests lie on Algorithms for big data and machine learning theory.
 
-------
-
-## 社交媒体
-
-- 邮箱：ly382965@mail.ustc.edu.cn
-- b站：[-山水之间的个人空间--山水之间个人主页-哔哩哔哩视频 (bilibili.com)](https://space.bilibili.com/521348820?spm_id_from=333.1007.0.0)
-- USTC评课社区：[萌萌哒mmd - USTC评课社区 (icourse.club)](https://icourse.club/user/7858)
-
-## 获奖情况
-
-- 2024.10 高教社杯全国大学生数学建模竞赛 省**二等奖**
-- 2024.9 中国科学技术大学优秀学生奖学金 **金奖**
-- 2024.1 第十五届全国大学生数学竞赛（非数学类） 安徽赛区**二等奖**
-- 2023.9 中国科学技术大学优秀学生奖学金 **银奖**
-- 2023.4  第十三届全国大学生物理学术竞赛中国科学技术大学 校赛**二等奖**
-- 2023.1  第十四届全国大学生数学竞赛（非数学类） 安徽赛区**二等奖**
-
----
-
-## 教育经历
-
-- 2024.1 - 2026.6 就读于中国科学技术大学，攻读计算机科学与技术专业辅修学士学位
-- 2023.7 - 2026.6 就读于中国科学技术大学信息科学技术学院，攻读电子信息工程专业学士学位
-- 2022.8 - 2023.7 就读于中国科学技术大学工程科学学院，修读工科实验班专业
-- 2019.8 - 2022.6 就读于安徽省无为中学，高中，理工类
-- 2016.9 - 2019.6 就读于安徽省无为市蜀山中心校
-- 2010.9 - 2016.6 就读于安徽省无为市蜀山中心小学
-
----
-
-## 助教经历
-
-- 2024秋季学期	计算机程序设计B助教，苏觉老师班
-
----
+- Administrative Class: 2203
+- Class Advisor: Huang He
+- Position: Study Committee Member for the 2023-2024, 2024-2025 academic year
+- Honor Class: the Talent Program in Information Science and Technology in 2022
 
 
-## 论文
+## Research Experience
 
-- [1] 李毅。新冠肺炎疫情背景下大学生抑郁成因及对策分析，2022.12
+- 2023.12 -- 2024.12 Undergraduate Research Opportunities Program: Development of Power Allocation and Data Rate Control System for Semi-Physical Simulation Platform in Interplanetary Network
 
-- [2] 李毅。基于python的使用蒙特卡洛方法模拟解决优惠劵收集问题，2023.6
+Adviser: Zuqing Zhu(IEEE Fellow, Professer of USTC)
+
+Get Grade A(GPA: 4.0)
+
+**Brief introduction:** 
+
+This study develops a semi-physical simulation platform for interplanetary networks (IPN) using the Interplanetary Overlay Network (ION) platform, which introduces a novel mechanism for status exchange between nodes,enabling status updates, message parsing, and data rate adjustments based on queue thresholds. 
+
+## Social Media
+
+- Email: ly382965@mail.ustc.edu.cn
+- Bilibili:  [Cilck here](https://space.bilibili.com/521348820?spm_id_from=333.1007.0.0)
+- USTC Course Review Community: [Cilck here](https://icourse.club/user/7858)
+
+## Awards
+
+- 2024.10 **Second Prize** at the provincial level, Award on China Undergraduate Mathematical Contest in Modeling
+- 2024.9 **Gold Prize**, Award on Outstanding Undergraduates Scholarship
+- 2024.1 **Second Prize** at the provincial level, Award on The 15th Chinese Mathematics Competitions(Non-Math Major) 
+- 2023.9 **Silver Prize**, Award on Outstanding Undergraduates Scholarship
+- 2023.4 **Second Prize** at the provincial level, Award on The 14th Chinese Mathematics Competitions(Non-Math Major) 
+- 2023.1 **Second Prize** at the school level, Award on The 14th China Undergraduate Physics Tournament
 
 ------
 
-## 项目开发经历
+## Education
 
-- 2022.12  多彩科大 -- 2022秋计算机程序设计大作业（基于C语言）
+- 2024.1 - 2026.6 University of Science and Technology of China, Minor in Computer Science and Technology
+- 2023.7 - 2026.6 University of Science and Technology of China, School of Information Science and Technology, major in Electronic Information Engineering, a member of the Talent Program in Information Science and Technology
+
+- 2022.8 - 2023.7 University of Science and Technology of China, School of Engineering Science, Experimental Engineering Class
+- 2019.8 - 2022.6 Wuwei High School, Anhui Province
+- 2016.9 - 2019.6 Shushan Central School, Wuwei City, Anhui Province
+- 2010.9 - 2016.6 Shushan Central Primary School, Wuwei City, Anhui Province
 
 ------
 
-## 其他荣誉
+## Teaching Assistant Experience
 
-- 2024.4 参加中国科学技术大学科技英才班春季越野跑，获得 10km FINISHER 奖牌
-- 2023.11 参加中国科学技术大学科技英才班2023秋季短程马拉松，获得 10km FINISHER 奖牌
-- 2023.6  通过英语六级考试
-- 2023.5  在2023年中国科学技术大学纪念五四运动104周年校园马拉松中，获得 FINISHER 奖牌
-- 2023.4  在中国科学技术大学“科技活动周”活动中担任科普工作者，获得荣誉证书
-- 2022.12 通过英语四级考试
-- 2022.10 参加中国科学技术大学2022年青年马克思主义者培养工程院级团校， 经过考核顺利结业
+- Fall 2024: **Teaching Assistant** of Computer Programming B, instructor: [Jue Su](https://faculty.ustc.edu.cn/sujue/zh_CN/index.htm)
+- Spring 2025: **Teaching Assistant** of Principles of Computers and Embedded Systems, instructor: [Xiaohui Chen](https://faculty.ustc.edu.cn/chenxiaohui/zh_CN/index/170473/list/index.htm)
 
+------
 
+## Project Development Experience
 
+- December 2022: Colorful USTC - Fall 2022 Computer Programming Assignment (Based on C Language)
+
+------
+
+## Other Honors
+
+- 2024.4 : Participated in the USTC Spring Cross-Country Run, awarded 10km FINISHER medal
+- 2023.11: Participated in the USTC Fall 2023 Short-Distance Marathon, awarded 10km FINISHER medal
+- 2023.6: Passed the CET-6 (College English Test Level 6)
+- 2023.5: Awarded FINISHER medal in the USTC 2023 Campus Marathon commemorating the 104th Anniversary of the May Fourth Movement
+- 2023.4: Acted as a Science Popularizer during the USTC Science and Technology Week, awarded Honorary Certificate
+- 2022.12: Passed the CET-4 (College English Test Level 4)
+- 2022.10: Completed the USTC Youth Marxist Training Program, successfully passed the assessment
