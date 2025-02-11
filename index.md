@@ -4,7 +4,7 @@ layout: page
 
 ## mmd
 
-I am mmd, my real name is Li Yi, born on October 5, 2005, from Wuwei City, Anhui Province. I am an undergraduate at the University of Science and Technology of China (USTC) in the School of Information Science and Technology, major in Electronic Information Engineering(EE), minor in Computer Science and Technology(CS).
+Welcome to my homepage. My real name is Li Yi, born on October 5, 2005, from Wuwei City, Anhui Province. I am an undergraduate in the School of Information Science and Technology of University of Science and Technology of China (USTC) , major in Electronic Information Engineering(EE) and minor in Computer Science and Technology(CS).
 
 My research interests lie on Algorithms for big data and machine learning theory.
 
@@ -41,8 +41,6 @@ This study develops a semi-physical simulation platform for interplanetary netwo
 - 2023.4 **Second Prize** at the provincial level, Award on The 14th Chinese Mathematics Competitions(Non-Math Major) 
 - 2023.1 **Second Prize** at the school level, Award on The 14th China Undergraduate Physics Tournament
 
-------
-
 ## Education
 
 - 2024.1 - 2026.6 University of Science and Technology of China, Minor in Computer Science and Technology
@@ -53,20 +51,14 @@ This study develops a semi-physical simulation platform for interplanetary netwo
 - 2016.9 - 2019.6 Shushan Central School, Wuwei City, Anhui Province
 - 2010.9 - 2016.6 Shushan Central Primary School, Wuwei City, Anhui Province
 
-------
-
 ## Teaching Assistant Experience
 
 - Fall 2024: **Teaching Assistant** of Computer Programming B, instructor: [Jue Su](https://faculty.ustc.edu.cn/sujue/zh_CN/index.htm)
 - Spring 2025: **Teaching Assistant** of Principles of Computers and Embedded Systems, instructor: [Xiaohui Chen](https://faculty.ustc.edu.cn/chenxiaohui/zh_CN/index/170473/list/index.htm)
 
-------
-
 ## Project Development Experience
 
 - December 2022: Colorful USTC - Fall 2022 Computer Programming Assignment (Based on C Language)
-
-------
 
 ## Other Honors
 
