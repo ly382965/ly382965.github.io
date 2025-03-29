@@ -6,7 +6,7 @@ layout: page
 
 Welcome to my homepage. My real name is Li Yi, born on October 5, 2005, from Wuwei City, Anhui Province. I am an undergraduate in the School of Information Science and Technology of University of Science and Technology of China (USTC) , major in Electronic Information Engineering(EE) and minor in Computer Science and Technology(CS).
 
-My research interests lie on Artificial Intelligence Generated Content (AIGC) and Multimodal Large Language Models (MLLMs).
+My research interests lie on AI Agent and Multimodal Large Language Models (MLLMs).
 
 - Administrative Class: 2203
 - Class Advisor: Huang He
