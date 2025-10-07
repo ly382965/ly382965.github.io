@@ -18,11 +18,11 @@
 
 （1）解压并打开V2rayN，点击订阅分组-订阅分组设置-添加，粘贴节点购买网站提供的url（别名无需理会，随便写个即可），点击订阅分组-更新全部订阅更新节点。
 
-![V2ray](V2ray.png)
+![V2ray](../images/V2ray.png)
 
 ​	（2）右键节点即可对该节点进行测速，测试延迟，设置为活动服务器等。右下方可以更改系统代理和路由。选择“自动配置系统代理”和“全局/绕过大陆”即可科学上网。
 
-<img src="V2ray2.png" alt="0" style="zoom:38%;" />
+<img src="../images/V2ray2.png" alt="0" style="zoom:38%;" />
 
 下面是一些废话，来源于[Clash中文教程网](https://clashv2ray.com/20035.html)
 
