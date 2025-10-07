@@ -20,24 +20,6 @@ Hello! I'm 萌萌哒mmd, an incoming postgraduate student in Computer Science at
 - **[Useful Links](/links/)**: Curated resources for students and researchers
 - **[Curriculum Vitae](/cv/)**: My academic and professional background
 
-## Recent Updates
-
-{% assign posts = site.posts | limit: 3 %}
-{% if posts.size > 0 %}
-### Latest Blog Posts
-{% for post in posts %}
-- [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endfor %}
-{% endif %}
-
-{% assign publications = site.publications | reverse | limit: 2 %}
-{% if publications.size > 0 %}
-### Recent Publications
-{% for pub in publications %}
-- [{{ pub.title }}]({{ pub.url }})
-{% endfor %}
-{% endif %}
-
 ## Contact
 
 Feel free to reach out to me at [ly382965@mail.ustc.edu.cn](mailto:ly382965@mail.ustc.edu.cn) or connect with me on [GitHub](https://github.com/ly382965).
