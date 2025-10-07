@@ -1,6 +1,6 @@
 ---
-layout: single
-permalink: /blogs/LaVaguelette/
+layout: page
+permalink: /blogs/LaVaguelette/index.html
 title: 轻涟 La vaguelette
 ---
 
