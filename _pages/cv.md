@@ -10,14 +10,30 @@ redirect_from:
 
 - Administrative Class: 2203
 - Class Advisor: Huang He
-- Position: Study Committee Member for the 2023-2024, 2024-2025 academic year
+- Position: Study Committee Member for the 2023-2024, 2024-2025, 2025-2026 academic year
 - Honor Class: the Talent Program in Information Science and Technology in 2022
 
 ## Research Experience
 
+- 2025.9 -- Present: Academic Master's candidate in Computer Science and Technology
+
+Adviser: [Mingjun Xiao](https://faculty.ustc.edu.cn/xiaomingjun/zh_CN/index.htm) (Professor, University of Science and Technology of China)
+
+**Research Interests:**
+
+Federated learning of large language models, safety of large language models
+
+- 2025.3 -- 2025.7 Research Internship: Investigation of multimodal large models (MLLMs) and AI agents
+
+Adviser: [Zhao Feng](https://faculty.ustc.edu.cn/zhaofeng1/zh_CN/index.htm) (Professor, University of Science and Technology of China)
+
+**Brief introduction:**
+
+Conducted literature review and code reproduction focusing on generation in natural image captioning tasks, data quality assessment for training and evaluation datasets and reinforcement-learning-based approaches for hallucination mitigation in generated outputs
+
 - 2023.12 -- 2024.12 Undergraduate Research Opportunities Program: Development of Power Allocation and Data Rate Control System for Semi-Physical Simulation Platform in Interplanetary Network
 
-Adviser: Zuqing Zhu(IEEE Fellow, Professer of USTC)
+Adviser: [Zuqing Zhu](https://faculty.ustc.edu.cn/zhuzuqing/zh_CN/index.htm)(IEEE Fellow, Professer of USTC)
 
 Get Grade A(GPA: 4.0)
 
@@ -42,6 +58,7 @@ This study develops a semi-physical simulation platform for interplanetary netwo
 
 ## Education
 
+- 2026.9 - 2029.6(expected) University of Science and Technology of China, Master in Computer Science and Technology
 - 2024.1 - 2026.6 University of Science and Technology of China, Minor in Computer Science and Technology
 - 2023.7 - 2026.6 University of Science and Technology of China, School of Information Science and Technology, major in Electronic Information Engineering, a member of the Talent Program in Information Science and Technology
 - 2022.8 - 2023.7 University of Science and Technology of China, School of Engineering Science, Experimental Engineering Class
