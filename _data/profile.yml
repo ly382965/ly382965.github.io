@@ -1,0 +1,57 @@
+name: "MM Dustc"
+role_en: "Student Researcher / Developer"
+role_zh: "学生研究者 / 开发者"
+email: "your.name@example.com"
+location_en: "Hefei, China"
+location_zh: "中国合肥"
+affiliation_en: "University of Science and Technology of China"
+affiliation_zh: "中国科学技术大学"
+bio_en:
+  - "I am interested in intelligent systems, academic tooling, human-centered automation and practical infrastructure for research and learning."
+  - "This site keeps a formal academic tone and a compact information layout, while the main portal remains more visual and service-oriented."
+bio_zh:
+  - "我关注智能系统、学术工具、人机协作式自动化，以及面向科研与学习场景的实用软件基础设施。"
+  - "这个学术主页会保持更正式、更克制的信息组织方式；而主站则继续承担更具视觉层次的个人门户与服务入口角色。"
+research_interests_en:
+  - "Educational AI systems"
+  - "Rust-based research infrastructure"
+  - "Human-centered automation"
+research_interests_zh:
+  - "教育场景中的智能系统"
+  - "基于 Rust 的研究基础设施"
+  - "以人为中心的自动化"
+links:
+  github: "https://github.com/"
+  scholar: "https://scholar.google.com/"
+  dblp: "https://dblp.org/"
+  cv: "#"
+education:
+  - title_en: "B.S. in Computer Science (expected)"
+    title_zh: "计算机科学本科（预计）"
+    description_en: "University of Science and Technology of China, 2022 - present"
+    description_zh: "中国科学技术大学，2022 年至今"
+teaching:
+  - title_en: "Teaching Assistant Placeholder"
+    title_zh: "助教经历占位"
+    description_en: "Course name, semester, and a concise description can be listed here."
+    description_zh: "这里可以填写课程名称、学期以及简要说明。"
+services:
+  - title_en: "Academic Service Placeholder"
+    title_zh: "学术服务占位"
+    description_en: "Program committee, reviewer service, student organizations, or lab maintenance roles."
+    description_zh: "可以填写审稿、学生活动组织、实验室维护等服务性工作。"
+honors:
+  - title_en: "Scholarship / Award Placeholder"
+    title_zh: "奖学金 / 荣誉占位"
+    description_en: "Describe awards, scholarships, competitions, or recognitions here."
+    description_zh: "这里可以填写奖学金、竞赛、荣誉称号或其它表彰。"
+talks:
+  - title_en: "Talk Placeholder"
+    title_zh: "报告占位"
+    description_en: "Conference talk, seminar, workshop, or invited presentation details can be listed here."
+    description_zh: "这里可以填写会议报告、组会分享、研讨班或受邀报告信息。"
+misc:
+  - title_en: "Open-source & community"
+    title_zh: "开源与社区"
+    description_en: "Use this area for open-source work, mentoring, or notes that complement an academic profile."
+    description_zh: "这里可用于记录开源工作、指导经历，或补充学术身份的其它信息。"

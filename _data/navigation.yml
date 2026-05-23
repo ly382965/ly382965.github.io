@@ -1,0 +1,31 @@
+# main links
+main:
+  - title: "About Me"
+    url: "/#about-me"
+
+  - title: "News"
+    url: "/#news"
+
+  - title: "Research Interests"
+    url: "/#research-interests"
+
+  - title: "Publications"
+    url: "/#publications"
+
+  - title: "Education"
+    url: "/#education"
+
+  - title: "Research Experience"
+    url: "/#research-experience"
+
+  - title: "Teaching Experience"
+    url: "/#teaching-experience"
+
+  - title: "Course Materials"
+    url: "/#course-materials"
+
+  - title: "Awards and Honors"
+    url: "/#awards-and-honors"
+
+  - title: "Contact"
+    url: "/#contact"

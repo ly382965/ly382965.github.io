@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="240" viewBox="0 0 240 240" fill="none">
+  <rect width="240" height="240" rx="32" fill="#FFFFFF"/>
+  <rect x="18" y="18" width="204" height="204" rx="26" fill="#F5F7FA" stroke="#D4DCE8" stroke-width="6"/>
+  <circle cx="120" cy="88" r="28" fill="#0C4A7A"/>
+  <path d="M72 160C72 133.49 93.49 112 120 112C146.51 112 168 133.49 168 160V166H72V160Z" fill="#0C4A7A"/>
+  <text x="120" y="204" text-anchor="middle" fill="#445161" font-family="Arial, sans-serif" font-size="26" font-weight="700">USTC</text>
+</svg>
