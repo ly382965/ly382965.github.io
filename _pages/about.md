@@ -8,65 +8,28 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about-me'></span>
+## [About Me](#about-me)
 
-## About Me
+Hello! I am Li Yi, a master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). Previously, I received dual Bachelor's degrees in Electronic Information Engineering and Computer Science from USTC.
 
-Hello! I'm 萌萌哒mmd, also known as Li Yi, an incoming postgraduate student in Computer Science at the University of Science and Technology of China (USTC).
+My current research interests include agentic reinforcement learning and agent memory. Before that, I worked on machine learning systems and distributed model fine-tuning. Beyond my academic work, I also enjoy building practical tools and applications as an internet enthusiast and developer.
 
-This homepage is the academic branch of my broader personal platform. It keeps a quieter presentation for research communication, teaching records, academic updates, and future publications.
+## [News](#news)
 
-My current interests include federated fine-tuning of large language models, machine learning systems, AI agents, and practical academic tooling.
+- 2026.05: Created a new personal academic homepage and redirected it to [academic.mmdustc.top](https://academic.mmdustc.top).
 
-<span class='anchor' id='news'></span>
+## [Publications](#publications)
 
-## News
+- Publication and preprint records will be added here as they become ready for release.
 
-- *2026.05*: Migrated legacy homepage materials into this academic site and aligned them with the new `mmdustc.top` project.
-- *2025.09*: Started the academic master's track in Computer Science and Technology at USTC.
-- *2025.03 - 2025.07*: Completed a research internship on multimodal large models and AI agents.
-
-<span class='anchor' id='research-interests'></span>
-
-## Research Interests
-
-- Federated fine-tuning of large language models
-- Machine learning systems and practical model deployment
-- Safety and evaluation of large language models
-- AI agents and academic tooling
-
-<span class='anchor' id='publications'></span>
-
-## Publications
-
-- Publication and preprint records are being curated and will be added here as they become ready for release.
-
-<span class='anchor' id='education'></span>
-
-## Education
-
-- **2026.09 -- 2029.06 (expected)**  
-  Master of Engineering in Computer Science and Technology, School of Computer Science and Technology, University of Science and Technology of China
-
-- **2022.09 -- 2026.06 (expected)**  
-  Bachelor of Engineering in Electronic Information Engineering, School of Information Science and Technology, University of Science and Technology of China
-
-- **2024.01 -- 2026.06 (expected)**  
-  Minor in Computer Science and Technology, University of Science and Technology of China
-
-- **2023.07 -- 2026.06**  
-  Talent Program in Information Science and Technology, University of Science and Technology of China
-
-<span class='anchor' id='research-experience'></span>
-
-## Research Experience
+## [Research Experience](#research-experience)
 
 ### 2025.09 -- Present
 
 **Academic Master's candidate in Computer Science and Technology**
 
 - Adviser: [Mingjun Xiao](https://faculty.ustc.edu.cn/xiaomingjun/zh_CN/index.htm), Professor, University of Science and Technology of China
-- Focus: federated fine-tuning of large language models, machine learning systems, and LLM safety
+- Focus: agentic reinforcement learning, agent memory, federated fine-tuning of large language models
 
 ### 2025.03 -- 2025.07
 
@@ -83,29 +46,48 @@ My current interests include federated fine-tuning of large language models, mac
 - Adviser: [Zuqing Zhu](https://faculty.ustc.edu.cn/zhuzuqing/zh_CN/index.htm), IEEE Fellow and Professor of USTC
 - Grade: A (GPA: 4.0)
 
-<span class='anchor' id='teaching-experience'></span>
+## [Academic Performance](#academic-performance)
 
-## Teaching Experience
+- **Major GPA:** 3.71 / 4.30, ranked 21 / 146
+- **Recommendation Score:** 91.38, ranked 16 / 150
 
-- **Teaching Assistant — Data Structures and Algorithms** (Autumn 2025)  
-  Instructor: [Xiaodong Xu](https://faculty.ustc.edu.cn/xuxiaodong/zh_CN/index.htm)
+## [Skills](#skills)
 
-- **Teaching Assistant — Principles of Computers and Embedded Systems** (Spring 2025)  
-  Instructor: [Xiaohui Chen](https://faculty.ustc.edu.cn/chenxiaohui/zh_CN/index/170473/list/index.htm)
+- **Programming:** Python, C, C++, Rust, MATLAB, Mathematica, LaTeX, Markdown
+- **Frameworks and Tools:** Codex, Claude Code, PyTorch, React, Node.js
+- **Languages:** English (fluent), Mandarin Chinese (native)
 
-- **Teaching Assistant — Computer Programming B** (Autumn 2024)  
-  Instructor: [Jue Su](https://faculty.ustc.edu.cn/sujue/zh_CN/index.htm)
+## [Education](#education)
 
-<span class='anchor' id='course-materials'></span>
+- **2026.09 -- 2029.06 (expected)**, Master of Engineering in Computer Science and Technology, School of Computer Science and Technology, University of Science and Technology of China (USTC)
 
-## Course Materials
+- **2024.01 -- 2026.06**, Minor in Computer Science and Technology, University of Science and Technology of China (USTC)
 
-- Legacy course materials have been consolidated into: [USTC 6系学习资料整理](https://github.com/ly382965/USTC_learning_materials)
+- **2023.07 -- 2026.06**, Talent Program in Information Science and Technology, University of Science and Technology of China (USTC)
 
-<span class='anchor' id='awards-and-honors'></span>
+- **2023.07 -- 2026.06**, Bachelor of Engineering in Electronic Information Engineering, School of Information Science and Technology, University of Science and Technology of China (USTC)
 
-## Awards and Honors
+- **2022.08 -- 2023.07**, Experimental Class of Engineering Science, School of Engineering Science, University of Science and Technology of China (USTC)
 
+- **2019.08 -- 2022.06**, Wuwei High School, Anhui Province
+
+- **2016.09 -- 2019.06**, Shushan Central School, Wuwei, Anhui Province
+
+- **2010.09 -- 2016.06**, Shushan Central Primary School, Wuwei, Anhui Province
+
+## [Teaching Experience](#teaching-experience)
+
+- **Teaching Assistant -- Principles of Computers and Embedded Systems** (Spring 2026), Instructor: [Xiaohui Chen](https://faculty.ustc.edu.cn/chenxiaohui/zh_CN/index/170473/list/index.htm)
+
+- **Teaching Assistant -- Data Structures and Algorithms** (Autumn 2025), Instructor: [Xiaodong Xu](https://faculty.ustc.edu.cn/xuxiaodong/zh_CN/index.htm)
+
+- **Teaching Assistant -- Principles of Computers and Embedded Systems** (Spring 2025), Instructor: [Xiaohui Chen](https://faculty.ustc.edu.cn/chenxiaohui/zh_CN/index/170473/list/index.htm)
+
+- **Teaching Assistant -- Computer Programming B** (Autumn 2024), Instructor: [Jue Su](https://faculty.ustc.edu.cn/sujue/zh_CN/index.htm)
+
+## [Awards and Honors](#awards-and-honors)
+
+- 2026.06 **University-level Outstanding Graduate**, University of Science and Technology of China
 - 2025.10 **Gold Prize**, Outstanding Undergraduates Scholarship
 - 2025.05 **S Prize**, Mathematical Contest in Modeling (MCM)
 - 2024.10 **Second Prize** at the provincial level, China Undergraduate Mathematical Contest in Modeling
@@ -115,9 +97,20 @@ My current interests include federated fine-tuning of large language models, mac
 - 2023.04 **Second Prize** at the provincial level, Chinese Mathematics Competitions (Non-Math Major)
 - 2023.01 **Second Prize** at the school level, China Undergraduate Physics Tournament
 
-<span class='anchor' id='contact'></span>
+## [Others](#others)
 
-## Contact
+- 2025.07 **Outstanding Participant**, Computer Science and Technology Summer Camp, University of Science and Technology of China
+- 2025.03 **Second Prize**, University of Science and Technology of China Algorithm Competition, Campus Contest, Online Track
+- 2024.04 **10 km Finisher Medal**, USTC Spring Cross-Country Run
+- 2023.11 **10 km Finisher Medal**, USTC Fall Short-Distance Marathon
+- 2023.06 **CET-6 Certificate**, College English Test Band 6
+- 2023.05 **Finisher Medal**, USTC Campus Marathon Commemorating the 104th Anniversary of the May Fourth Movement
+- 2023.04 **Honorary Certificate**, Science Popularizer, USTC Science and Technology Week
+- 2022.12 **CET-4 Certificate**, College English Test Band 4
+- 2022.10 **Completion Certificate**, USTC Youth Marxist Training Program
+- Frameworks and Tools: TensorFlow, PyTorch, React, Node.js
+
+## [Contact](#contact)
 
 - Email: [ly382965@mail.ustc.edu.cn](mailto:ly382965@mail.ustc.edu.cn)
 - GitHub: [ly382965](https://github.com/ly382965)

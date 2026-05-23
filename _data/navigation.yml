@@ -6,26 +6,29 @@ main:
   - title: "News"
     url: "/#news"
 
-  - title: "Research Interests"
-    url: "/#research-interests"
-
   - title: "Publications"
     url: "/#publications"
-
-  - title: "Education"
-    url: "/#education"
 
   - title: "Research Experience"
     url: "/#research-experience"
 
+  - title: "Academic Performance"
+    url: "/#academic-performance"
+
+  - title: "Skills"
+    url: "/#skills"
+
+  - title: "Education"
+    url: "/#education"
+
   - title: "Teaching Experience"
     url: "/#teaching-experience"
 
-  - title: "Course Materials"
-    url: "/#course-materials"
-
   - title: "Awards and Honors"
     url: "/#awards-and-honors"
+
+  - title: "Others"
+    url: "/#others"
 
   - title: "Contact"
     url: "/#contact"

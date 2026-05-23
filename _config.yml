@@ -23,16 +23,18 @@ baidu_site_verification  :
 
 # Site Author
 author:
-  name             : "萌萌哒mmd"
+  name             : "Li Yi"
   avatar           : "images/noa.jpg"
-  bio              : "Incoming postgraduate student in Computer Science at the University of Science and Technology of China (USTC)"
+  bio              : "Master's student in Computer Science at USTC"
   location         : "Hefei, China"
-  employer         : "University of Science and<br>Technology of China"
+  employer         : "USTC"
+  employer_url     : "https://en.ustc.edu.cn/"
+  employer_title   : "University of Science and Technology of China"
   pubmed           :
   googlescholar    :
   email            : "ly382965@mail.ustc.edu.cn"
   researchgate     :
-  uri              :
+  uri              : "https://academic.mmdustc.top"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -40,6 +42,8 @@ author:
   facebook         :
   foursquare       :
   github           : "ly382965"
+  bilibili         : "https://space.bilibili.com/521348820?spm_id_from=333.1007.0.0"
+  icourse          : "https://icourse.club/user/7858"
   google_plus      :
   keybase          :
   instagram        :

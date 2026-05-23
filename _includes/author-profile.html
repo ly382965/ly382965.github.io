@@ -23,7 +23,13 @@
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
       {% if author.employer %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.employer }}</li>
+        <li>
+          {% if author.employer_url %}
+            <a href="{{ author.employer_url }}"{% if author.employer_title %} title="{{ author.employer_title }}"{% endif %}><i class="fas fa-fw fa-university" aria-hidden="true"></i> {{ author.employer }}</a>
+          {% else %}
+            <i class="fas fa-fw fa-university" aria-hidden="true"></i> {{ author.employer }}
+          {% endif %}
+        </li>
       {% endif %}
       {% if author.uri %}
         <li><a href="{{ author.uri }}"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Website</a></li>
@@ -66,6 +72,12 @@
       {% endif %}
       {% if author.github %}
         <li><a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i> Github</a></li>
+      {% endif %}
+      {% if author.bilibili %}
+        <li><a href="{{ author.bilibili }}"><i class="fas fa-fw fa-tv" aria-hidden="true"></i> Bilibili</a></li>
+      {% endif %}
+      {% if author.icourse %}
+        <li><a href="{{ author.icourse }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i> USTC Course Review</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
@@ -161,6 +173,12 @@
       {% endif %}
       {% if author.github %}
         <a href="https://github.com/{{ author.github }}"><i class="fab fa-fw fa-github" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.bilibili %}
+        <a href="{{ author.bilibili }}"><i class="fas fa-fw fa-tv" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.icourse %}
+        <a href="{{ author.icourse }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.stackoverflow %}
         <a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i></a>
