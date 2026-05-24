@@ -10,7 +10,7 @@ redirect_from:
 
 ## [About Me](#about-me)
 
-Hello! I am Li Yi, a master's student in Computer Science at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/). Previously, I received dual Bachelor's degrees in Electronic Information Engineering and Computer Science from USTC.
+Hello! I am Li Yi, a master's student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/en/en_aboutus_college.html) & [State Key Laboratory of Cognitive Intelligence](https://dm.ustc.edu.cn/class_7/overview.html) at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof. Mingjun Xiao](https://faculty.ustc.edu.cn/xiaomingjun/zh_CN/index.htm). Previously, I received dual Bachelor's degrees in Electronic Information Engineering and Computer Science from USTC.
 
 My current research interests include agentic reinforcement learning and agent memory. Before that, I worked on machine learning systems and distributed model fine-tuning. Beyond my academic work, I also enjoy building practical tools and applications as an internet enthusiast and developer.
 
