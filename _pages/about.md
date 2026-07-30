@@ -20,7 +20,7 @@ My current research interests include agentic reinforcement learning and agent m
 
 ## [Publications](#publications)
 
-- Publication and preprint records will be added here as they become ready for release.
+- [Under Review] **Yi Li**, Yin Xu, and Mingjun Xiao. *MGLoRA: Multi-Granularity LoRA with Token-Dependent Local Composition for Personalized Federated Continual Fine-Tuning.*
 
 ## [Research Experience](#research-experience)
 
@@ -38,6 +38,29 @@ My current research interests include agentic reinforcement learning and agent m
 - Adviser: [Zhao Feng](https://faculty.ustc.edu.cn/zhaofeng1/zh_CN/index.htm), Professor, University of Science and Technology of China
 - Work: literature review and code reproduction around image caption generation, dataset quality assessment, and reinforcement-learning-based hallucination mitigation
 
+## [Projects](#projects)
+
+### 2026.07 -- Present
+
+**Dududa: A Multifunctional QQ AI Agent**
+
+- Competition: [USTC "107 Cup" Computing Power and Intelligent Agent Development Competition](https://ustcnet.ustc.edu.cn/2026/0623/c33415a745288/page.htm)
+- Role: Team Leader
+
+### 2026.07 -- Present
+
+**Campus Weather Station Development**
+
+- Competition: [USTC "107 Cup" Computing Power and Intelligent Agent Development Competition](https://ustcnet.ustc.edu.cn/2026/0623/c33415a745288/page.htm)
+- Role: Machine Learning Team Member
+
+### 2026.07 -- Present
+
+**MindNexus: A Personal Information Management Hub**
+
+- Competition: [USTC "107 Cup" Computing Power and Intelligent Agent Development Competition](https://ustcnet.ustc.edu.cn/2026/0623/c33415a745288/page.htm)
+- Role: Core Developer
+
 ### 2023.12 -- 2024.12
 
 **Undergraduate Research Opportunities Program**
@@ -45,6 +68,8 @@ My current research interests include agentic reinforcement learning and agent m
 - Topic: Development of power allocation and data rate control system for a semi-physical simulation platform in interplanetary network
 - Adviser: [Zuqing Zhu](https://faculty.ustc.edu.cn/zhuzuqing/zh_CN/index.htm), IEEE Fellow and Professor of USTC
 - Grade: A (GPA: 4.0)
+
+More projects are available at [mmdustc.top/projects](https://mmdustc.top/projects/).
 
 ## [Academic Performance](#academic-performance)
 
@@ -76,6 +101,8 @@ My current research interests include agentic reinforcement learning and agent m
 - **2010.09 -- 2016.06**, Shushan Central Primary School, Wuwei, Anhui Province
 
 ## [Teaching Experience](#teaching-experience)
+
+- **Teaching Assistant -- Data Structures A** (Autumn 2026), Instructor: [Mingjun Xiao](https://faculty.ustc.edu.cn/xiaomingjun/zh_CN/index.htm)
 
 - **Teaching Assistant -- Principles of Computers and Embedded Systems** (Spring 2026), Instructor: [Xiaohui Chen](https://faculty.ustc.edu.cn/chenxiaohui/zh_CN/index/170473/list/index.htm)
 
