@@ -40,25 +40,27 @@ My current research interests include agentic reinforcement learning and agent m
 
 ## [Projects](#projects)
 
+**BBMarkAssistant: Multi-Model Actor–Critic Homework Grading**
+
+- A homework grading application in which an Actor model drafts and revises grades, while a Critic model checks them against the original submissions.
+- Supports printed and handwritten submissions, with human review before grades are submitted to Blackboard.
+- Repository: [ly382965/BBMarkAssistant](https://github.com/ly382965/BBMarkAssistant)
+
 ### 2026.07 -- Present
 
 **Dududa: A Multifunctional QQ AI Agent**
 
 - Competition: [USTC "107 Cup" Computing Power and Intelligent Agent Development Competition](https://ustcnet.ustc.edu.cn/2026/0623/c33415a745288/page.htm)
+- Award: **Third Prize**
 - Role: Team Leader
-
-### 2026.07 -- Present
-
-**Campus Weather Station Development**
-
-- Competition: [USTC "107 Cup" Computing Power and Intelligent Agent Development Competition](https://ustcnet.ustc.edu.cn/2026/0623/c33415a745288/page.htm)
-- Role: Machine Learning Team Member
+- Repository: [ly382965/dududa](https://github.com/ly382965/dududa)
 
 ### 2026.07 -- Present
 
 **MindNexus: A Personal Information Management Hub**
 
 - Competition: [USTC "107 Cup" Computing Power and Intelligent Agent Development Competition](https://ustcnet.ustc.edu.cn/2026/0623/c33415a745288/page.htm)
+- Award: **Third Prize**
 - Role: Core Developer
 
 ### 2023.12 -- 2024.12
@@ -114,6 +116,7 @@ More projects are available at [mmdustc.top/projects](https://mmdustc.top/projec
 
 ## [Awards and Honors](#awards-and-honors)
 
+- 2026 **Third Prize**, USTC "107 Cup" Computing Power and Intelligent Agent Development Competition (Dududa and MindNexus, one award each)
 - 2026.06 **University-level Outstanding Graduate**, University of Science and Technology of China
 - 2025.10 **Gold Prize**, Outstanding Undergraduates Scholarship
 - 2025.05 **S Prize**, Mathematical Contest in Modeling (MCM)
