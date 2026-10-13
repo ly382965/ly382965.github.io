@@ -75,7 +75,7 @@ More projects are available at [mmdustc.top/projects](https://mmdustc.top/projec
 
 ## [Academic Performance](#academic-performance)
 
-- **Major GPA:** 3.71 / 4.30, ranked 21 / 146
+- **Major GPA:** 3.72 / 4.30, ranked 21 / 146
 - **Recommendation Score:** 91.38, ranked 16 / 150
 
 ## [Skills](#skills)
