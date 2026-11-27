@@ -12,15 +12,19 @@ redirect_from:
 
 Hello! I am Li Yi, a master's student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/en/en_aboutus_college.html) & [State Key Laboratory of Cognitive Intelligence](https://dm.ustc.edu.cn/class_7/overview.html) at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof. Mingjun Xiao](https://faculty.ustc.edu.cn/xiaomingjun/zh_CN/index.htm). I also work as an Assistant Research Algorithm Engineer at [iFLYTEK Research](https://iflytekresearch.iflytek.com/). Previously, I received dual Bachelor's degrees in Electronic Information Engineering and Computer Science from USTC.
 
-I study recursive self-improvement in AI agents (Agent RSI): how agents use experience to improve their problem-solving strategies. I’m particularly interested in metaRSI: how agents can improve the way they generate and update those strategies. When is an update worth its computational cost, and how can we tell whether it actually helps?
-
-Before that, I worked on machine learning systems and distributed model fine-tuning. Beyond my academic work, I also enjoy building practical tools and applications as an internet enthusiast and developer.
+I study Agent RSI and metaRSI. My previous work focused on machine learning systems and distributed fine-tuning. I also enjoy building practical tools.
 
 ## [Publications](#publications)
 
 - [Under Review] **Yi Li**, Yin Xu, and Mingjun Xiao. *MGLoRA: Multi-Granularity LoRA with Token-Dependent Local Composition for Personalized Federated Continual Fine-Tuning.*
 
 ## [Research Experience](#research-experience)
+
+### 2026.12 -- Present
+
+**Research Internship at [iFLYTEK Research](https://iflytekresearch.iflytek.com/)**
+
+- **Focus:** Recursive self-improvement in LLM agents for chemical engineering.
 
 ### 2025.09 -- Present
 
