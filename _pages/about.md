@@ -12,7 +12,7 @@ redirect_from:
 
 Hello! I am Li Yi, a master's student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/en/en_aboutus_college.html) & [State Key Laboratory of Cognitive Intelligence](https://dm.ustc.edu.cn/class_7/overview.html) at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof. Mingjun Xiao](https://faculty.ustc.edu.cn/xiaomingjun/zh_CN/index.htm). I also work as an Assistant Research Algorithm Engineer at [iFLYTEK Research](https://iflytekresearch.iflytek.com/). Previously, I received dual Bachelor's degrees in Electronic Information Engineering and Computer Science from USTC.
 
-I study Agent RSI and metaRSI. My previous work focused on machine learning systems and distributed fine-tuning. I also enjoy building practical tools.
+My current research interests are Agent RSI and metaRSI. At iFLYTEK Research, I focus on Agent RSI for LLM agents in chemical engineering. Before that, I worked on machine learning systems and distributed model fine-tuning. Beyond my academic work, I enjoy building practical tools and applications, from AI agents to software I use in everyday life.
 
 ## [Publications](#publications)
 
