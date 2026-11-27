@@ -25,9 +25,7 @@ baidu_site_verification  :
 author:
   name             : "Li Yi"
   avatar           : "images/noa.jpg"
-  bio              : >-
-    Master’s student in Computer Science, USTC<br>
-    Assistant Research Algorithm Engineer, <a href="https://iflytekresearch.iflytek.com/">iFLYTEK Research</a>
+  bio              : "Master’s student in Computer Science, USTC"
   location         : "Hefei, China"
   employer         : "USTC"
   employer_url     : "https://en.ustc.edu.cn/"
