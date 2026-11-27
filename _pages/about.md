@@ -10,13 +10,11 @@ redirect_from:
 
 ## [About Me](#about-me)
 
-Hello! I am Li Yi, a master's student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/en/en_aboutus_college.html) & [State Key Laboratory of Cognitive Intelligence](https://dm.ustc.edu.cn/class_7/overview.html) at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof. Mingjun Xiao](https://faculty.ustc.edu.cn/xiaomingjun/zh_CN/index.htm). Previously, I received dual Bachelor's degrees in Electronic Information Engineering and Computer Science from USTC.
+Hello! I am Li Yi, a master's student in the [Department of Computer Science and Technology](https://cs.ustc.edu.cn/) & [Suzhou Institute for Advanced Study](https://sz.ustc.edu.cn/en/en_aboutus_college.html) & [State Key Laboratory of Cognitive Intelligence](https://dm.ustc.edu.cn/class_7/overview.html) at the [University of Science and Technology of China (USTC)](https://en.ustc.edu.cn/), supervised by [Prof. Mingjun Xiao](https://faculty.ustc.edu.cn/xiaomingjun/zh_CN/index.htm). I also work as an Assistant Research Algorithm Engineer at [iFLYTEK Research](https://iflytekresearch.iflytek.com/). Previously, I received dual Bachelor's degrees in Electronic Information Engineering and Computer Science from USTC.
 
-My current research interests include agentic reinforcement learning and agent memory. Before that, I worked on machine learning systems and distributed model fine-tuning. Beyond my academic work, I also enjoy building practical tools and applications as an internet enthusiast and developer.
+I study recursive self-improvement in AI agents (Agent RSI): how agents use experience to improve their problem-solving strategies. I’m particularly interested in metaRSI: how agents can improve the way they generate and update those strategies. When is an update worth its computational cost, and how can we tell whether it actually helps?
 
-## [News](#news)
-
-- 2026.05: Created a new personal academic homepage and redirected it to [academic.mmdustc.top](https://academic.mmdustc.top).
+Before that, I worked on machine learning systems and distributed model fine-tuning. Beyond my academic work, I also enjoy building practical tools and applications as an internet enthusiast and developer.
 
 ## [Publications](#publications)
 
@@ -29,7 +27,7 @@ My current research interests include agentic reinforcement learning and agent m
 **Academic Master's candidate in Computer Science and Technology**
 
 - Adviser: [Mingjun Xiao](https://faculty.ustc.edu.cn/xiaomingjun/zh_CN/index.htm), Professor, University of Science and Technology of China
-- Focus: agentic reinforcement learning, agent memory, federated fine-tuning of large language models
+- **Focus:** Agent RSI and metaRSI in self-improving agents.
 
 ### 2025.03 -- 2025.07
 
